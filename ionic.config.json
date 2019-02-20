@@ -1,5 +1,7 @@
 {
   "name": "ionic4-push",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

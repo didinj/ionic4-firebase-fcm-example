@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "130892729697",
+    "firebase_url": "https://ionic-4-fcm.firebaseio.com",
+    "project_id": "ionic-4-fcm",
+    "storage_bucket": "ionic-4-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130892729697:android:a4e04060fa1d258e",
+        "android_client_info": {
+          "package_name": "com.djamware.ionic4fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130892729697-nbl1jlja4ob8v6cv950bjcdn3ftt6bes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8MJ6HdXo_VVRq8jYfLpjsH17OH1NBEo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
